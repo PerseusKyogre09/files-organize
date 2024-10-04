@@ -64,7 +64,7 @@ categories = {
 ```
 
 ## 📜 License
-This project is licensed under the MIT License. See the [LICENSE]([https://github.com/PerseusKyogre09/](https://github.com/PerseusKyogre09/files-organize/blob/main/LICENSE) file for more details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/PerseusKyogre09/files-organize/blob/main/LICENSE) file for more details.
 
 ## Happy organizing! 🎉
 
