@@ -3,7 +3,7 @@ from os.path import isfile, join
 import os
 import shutil
 
-file_path = r'C:\Users\palpr\Downloads'
+file_path = r'C:\Users\Files'
 files = [f for f in listdir(file_path) if isfile(join(file_path, f))]
 
 categories = {
