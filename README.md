@@ -72,4 +72,3 @@ This project is licensed under the MIT License. See the [LICENSE](https://github
 - Replace `yourusername` with your actual username or the appropriate file path.
 - Add/Modify categories as needed in the `categories` dictionary to include other file types.
 
-This formatted version includes emojis for visual appeal and ensures that all code is properly within code blocks.
